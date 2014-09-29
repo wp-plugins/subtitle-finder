@@ -1,0 +1,54 @@
+# Copyright (C) 2014 Subtitle Finder
+# This file is distributed under the same license as the Subtitle Finder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: subtitle-finder 1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/subtitle-finder\n"
+"POT-Creation-Date: 2014-03-25 07:05:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-09-24 11:17+0330\n"
+"Last-Translator: Mohammadreza dehqany <mdehqany@gmail.com>\n"
+"Language-Team: Persian <mdehqany@gmail.com>\n"
+"Language: fa_IR\n"
+"X-Generator: Poedit 1.6.9\n"
+
+msgid "Select your language"
+msgstr "زبان خود را انتخاب کنید"
+
+msgid "Subtitle Finder"
+msgstr "جستجوگر زیر نویس"
+
+msgid "Settings are changed Successfully"
+msgstr "تنظیمات با موفقیت ذخیره شد"
+
+msgid "save"
+msgstr "ذخیره"
+
+msgid "Cannot Connect to Subscene.com"
+msgstr "اتصال برقرار نشد"
+
+msgid "Subtitle Not Found"
+msgstr "زیر نویسی یافت نشد"
+
+msgid "Enter Your Movie Name"
+msgstr "نام فیلم خود را وارد کنید"
+
+msgid "Search"
+msgstr "جستوجو"
+
+msgid "Users download Directly on your web site"
+msgstr "کاربران سایت به صورت مستقیم فایل را از سایت شما دانلود کنند"
+
+msgid "this plugin Powered By attributions Did U accept this ?"
+msgstr "این افزونه از محتوی سایت دیگر استفاده میکند آیا این را میپذیرید ؟"
+
+msgid "yes"
+msgstr "بله"
+
+msgid "no"
+msgstr "خیر"
+
+msgid "If you dont accept this , plugin cant work Correctly"
+msgstr "در صورتی که شما این قسمت را نپذیرید افزونه نمیتواند کار کند"
